@@ -14,14 +14,15 @@ The files used:
 
 **Ratings of Genres Throughout the Years**
 
-According to data gathered from the years 2005, 2010, 2015 and 2019-2020, films featuring Drama were the most successful.  
+According to data gathered from the years 2005, 2010, 2015 and 2019-2020, films featuring Drama were the most successful. However, it is also worth noting that in the last year, movies that had Aventure aspects were also highly rated.
 
 **Run Times**
 ![Average Ratings of Run Times](https://user-images.githubusercontent.com/79724188/120088299-062e9480-c0bd-11eb-9d06-968076cf1ac4.png)
-With the graph above, it can be inferred that the run times do not seem to directly relate to one another, therefore Microsoft wouuld not need to concern themselves with how long they would like to have their movies.
+With the graph above, it can be inferred that the run times do not seem to impact ratings, therefore Microsoft would not need to concern themselves with the lengths of their motion pictures.
 
 **Costs and Profits**
-The production budget for a rated seven or higher movie would most likely be under fifty million dollars. On average in the last five years, according to the calculations, a company could expect to net a profit of around one hundred million dollars for a seven or higher rated movie domestically. Indicated from the chart , it would seem that on average the worldwide profit for a seven and higher rated movie would be around 280,000,000 (two hundred eighty million) dollars, but once more the standard deviation is high. Therefore, we can infer that a larger dataset is most likely needed to get a more accurate indication on how much a movie may make on a global scale.
+Focusing on films that rated seven and higher, the production budget required to make such a film would most likely be around fifty million dollars. According to the calculations from the last five years, Microsoft could expect to net a domestic profit of around one hundred million dollars with a global potential of two hundred eighty million dollars.
+
 ![Domestic Gross Averages](https://user-images.githubusercontent.com/79724188/120088437-7ab60300-c0be-11eb-88a8-2aa9e66e549b.png)
 ![Worldwide Gross Averages](https://user-images.githubusercontent.com/79724188/120088456-9e794900-c0be-11eb-8c93-0b02202f5a0c.png)
 
