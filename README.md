@@ -14,7 +14,8 @@ The files used:
 
 **Ratings of Genres Throughout the Years**
 
-Sorting through the files above, it was possible to gather and analyze relevant data that would help Microsoft in choosing which movie would be the best to make. To see if there were any trending genres in particular that were reoccuringly successful, data from the years 2005, 2010 and 2015 was evaluated. The one genre that consitently rated high throughout these years was Drama. This is a positive indication that a movie made with a fusion including Drama would be a prosperous type of film since not only was it popular the last fifteen years, but it also was trending in the year 2019-2020. It should be metioned however, that in addition to Drama, Adventure did feature heavily as well in the past year. 
+According to data gathered from the years 2005, 2010, 2015 and 2019-2020, Drama was the leading genre. 
+In addition to Drama, Adventure featured heavily as well in the past year. 
 
 **Run Times**
 ![Average Ratings of Run Times](https://user-images.githubusercontent.com/79724188/120088299-062e9480-c0bd-11eb-9d06-968076cf1ac4.png)
