@@ -14,8 +14,7 @@ The files used:
 
 **Ratings of Genres Throughout the Years**
 
-According to data gathered from the years 2005, 2010, 2015 and 2019-2020, Drama was the leading genre. 
-In addition to Drama, Adventure featured heavily as well in the past year. 
+According to data gathered from the years 2005, 2010, 2015 and 2019-2020, films featuring Drama were the most successful.  
 
 **Run Times**
 ![Average Ratings of Run Times](https://user-images.githubusercontent.com/79724188/120088299-062e9480-c0bd-11eb-9d06-968076cf1ac4.png)
