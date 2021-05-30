@@ -25,6 +25,8 @@ With the graph above, it can be inferred that the run times do not seem to direc
 
 ###Costs and Profits
 The production budget for a rated seven or higher movie would most likely be under fifty million dollars. On average in the last five years, according to the calculations, a company could expect to net a profit of around one hundred million dollars for a seven or higher rated movie domestically. Indicated from the chart , it would seem that on average the worldwide profit for a seven and higher rated movie would be around 280,000,000 (two hundred eighty million) dollars, but once more the standard deviation is high. Therefore, we can infer that a larger dataset is most likely needed to get a more accurate indication on how much a movie may make on a global scale.
+![Domestic Gross Averages](https://user-images.githubusercontent.com/79724188/120088437-7ab60300-c0be-11eb-88a8-2aa9e66e549b.png)
+![Worldwide Gross Averages](https://user-images.githubusercontent.com/79724188/120088456-9e794900-c0be-11eb-8c93-0b02202f5a0c.png)
 
 ###Conclusion
 For the year 2019 to 2020, unsurprisingly Drama once again is at the top of the rating charts but with a welcome change of Adventure as well. It can be inferred that the run times do not seem to directly relate to one another. The production budget for a rated seven or higher movie would most likely be under fifty million dollars. Plotting the worldwide profits from the last five years does seem to suggest the average is not accurate and that most likely profit would be under twenty million dollars. Recommend a Mircorsoft make a Drama Adventure movie.
