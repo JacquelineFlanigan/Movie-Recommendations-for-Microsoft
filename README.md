@@ -20,7 +20,7 @@ The files used:
 Sorting through the files above, it was possible to gather and analyze relevant data that would help Microsoft in choosing which movie would be the best to make. To see if there were any trending genres in particular that were reoccuringly successful, data from the years 2005, 2010 and 2015 was evaluated. The one genre that consitently rated high throughout these years was Drama. This is a positive indication that a movie made with a fusion including Drama would be a prosperous type of film since not only was it popular the last fifteen years, but it also was trending in the year 2019-2020. It should be metioned however, that in addition to Drama, Adventure did feature heavily as well in the past year. 
 
 ###Run Times
-
+![Average Ratings of Run Times](https://user-images.githubusercontent.com/79724188/120088299-062e9480-c0bd-11eb-9d06-968076cf1ac4.png)
 With the graph above, it can be inferred that the run times do not seem to directly relate to one another, therefore Microsoft wouuld not need to concern themselves with how long they would like to have their movies.
 
 ###Costs and Profits
