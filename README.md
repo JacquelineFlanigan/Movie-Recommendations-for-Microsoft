@@ -1,13 +1,11 @@
-#Mircosoft Movie Insights
-
 ##### Table of Contents  
-[Headers](#headers)  
+[Microsoft Movie Insights](#headers)  
 [Emphasis](#emphasis)  
 ...snip...    
 <a name="headers"/>
 ## Headers
 
-
+##Microsoft Movie Insights
 Microsoft has decided to expand into the cinamatic world by creating a new movie studio. To decide which kind of movies to make, they would like to find out which types are currently doing best at the box office. In the paragraphs below, we will look into what were the most popular genres in recent years to see if there are any trending genres as well as analyze to find out if run time effects how well a movie is rated. To also help Microsoft figure out just how much it would cost them to make a highly rated movie, we will analyze production budgets for the last five years. And finally, we will look into what types of profits Microsoft may be getting both domestically and globally if they were to make a highly rated movie.
 
 
@@ -26,10 +24,8 @@ Sorting through the files above, it was possible to gather and analyze relevant 
 
 With the graph above, it can be inferred that the run times do not seem to directly relate to one another, therefore Microsoft wouuld not need to concern themselves with how long they would like to have their movies.
 
-###Production Budgets
-
-###Domestic Gross
-
-###Worldwide Gross
+###Costs and Profits
+The production budget for a rated seven or higher movie would most likely be under fifty million dollars. On average in the last five years, according to the calculations, a company could expect to net a profit of around one hundred million dollars for a seven or higher rated movie domestically. Indicated from the chart , it would seem that on average the worldwide profit for a seven and higher rated movie would be around 280,000,000 (two hundred eighty million) dollars, but once more the standard deviation is high. Therefore, we can infer that a larger dataset is most likely needed to get a more accurate indication on how much a movie may make on a global scale.
 
 ###Conclusion
+For the year 2019 to 2020, unsurprisingly Drama once again is at the top of the rating charts but with a welcome change of Adventure as well. It can be inferred that the run times do not seem to directly relate to one another. The production budget for a rated seven or higher movie would most likely be under fifty million dollars. Plotting the worldwide profits from the last five years does seem to suggest the average is not accurate and that most likely profit would be under twenty million dollars. Recommend a Mircorsoft make a Drama Adventure movie.
