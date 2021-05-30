@@ -1,8 +1,4 @@
-##### Table of Contents  
-[Headers](#Microsoft Movie Insights)  
-[Emphasis](#emphasis)  
-    
-<a name="headers"/>
+
 ## Microsoft Movie Insights
 
 Microsoft has decided to expand into the cinamatic world by creating a new movie studio. To decide which kind of movies to make, they would like to find out which types are currently doing best at the box office. In the paragraphs below, we will look into what were the most popular genres in recent years to see if there are any trending genres as well as analyze to find out if run time effects how well a movie is rated. To also help Microsoft figure out just how much it would cost them to make a highly rated movie, we will analyze production budgets for the last five years. And finally, we will look into what types of profits Microsoft may be getting both domestically and globally if they were to make a highly rated movie.
