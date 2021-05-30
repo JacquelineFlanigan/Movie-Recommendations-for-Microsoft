@@ -23,8 +23,9 @@ With the graph above, it can be inferred that the run times do not seem to impac
 **Costs and Profits**
 Focusing on films that rated seven and higher, the production budget required to make such a film would most likely be around fifty million dollars. According to the calculations from the last five years, Microsoft could expect to net a domestic profit of around one hundred million dollars with a global potential of two hundred million dollars.
 
-![Domestic Gross Averages](https://user-images.githubusercontent.com/79724188/120088437-7ab60300-c0be-11eb-88a8-2aa9e66e549b.png)
-![Worldwide Gross Averages](https://user-images.githubusercontent.com/79724188/120088456-9e794900-c0be-11eb-8c93-0b02202f5a0c.png)
+![Domestic Gross Averages](https://user-images.githubusercontent.com/79724188/120119942-6a5a6280-c168-11eb-88b5-642b07cd2c7c.png)
+![Worldwide Gross Averages](https://user-images.githubusercontent.com/79724188/120119955-77775180-c168-11eb-8936-17f07cb3edf3.png)
+
 
 **Conclusion**
 For Microsoft to be successful in making highly rated movies, it would be advisable to produce a Drama Adventure. Should Microsoft choose to explore this cinematic endeavor, they can expect with a budget starting at fifty million dollars to net an average profit of one hundred million to two hundred million dollars.
