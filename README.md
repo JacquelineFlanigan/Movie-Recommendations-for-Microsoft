@@ -5,6 +5,7 @@ Microsoft has decided to expand into the cinamatic world by creating a new movie
 
 
 **Methodology**
+
 The files used:
 1. zippedData/tn.movie_budgets.csv.gz
 2. zippedData/imdb.title.ratings.csv.gz
