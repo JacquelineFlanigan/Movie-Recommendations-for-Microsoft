@@ -1,5 +1,5 @@
 
-## Microsoft Movie Insights
+## Movie Recommendations for Microsoft
 
 Microsoft has decided to expand into the cinematic market by creating a new movie studio. To decide which kinds of movies to make, they would like to find out which types are currently doing best at the box office. In the paragraphs below, we will explore the most popular genres in recent years as well as analyze to find out if run time effects ratings. To also help Microsoft figure out just how much it would cost them to make a highly rated movie, we will analyze production budgets for the last five years. Lastly, we will forecast domestic and global profits for Microsoft if they were to make an acclaimed movie.
 
